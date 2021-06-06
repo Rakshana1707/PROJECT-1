@@ -1,2 +1,2 @@
-# PROJECT-1
+# PROJECTS
 To store my projects
